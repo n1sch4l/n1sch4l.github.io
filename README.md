@@ -1,6 +1,3 @@
-# n1sch4l.github.io
-
-#My first Github Portfolio Website
 # CyberSecurity Practitioner
 
 #### Technical Skills: Python, Wireshark, Active Directory, Linux, Windows
